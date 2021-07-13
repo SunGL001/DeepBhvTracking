@@ -1,0 +1,8 @@
+Hardware:
+8GB Minimum RAM for single experimental data; For batch analysis of large amount of data, recommended 32GB or more;
+Software:
+MATLAB 2019 or higher version;
+Download codes:
+a. Download our repository DeepBhvTracking to local, and include codes to your Matlab path;
+b. Make sure your Matlab has the Deep Learning Toolbox, Image Processing Toolbox and Computer Vision Toolbox;
+c. Make sure your Matlab has the pretrained deep neural networks, such as Deep Learning Toolbox Model for ResNet-50 Network, ResNet-18 or MobileNet-v2 Network. 
