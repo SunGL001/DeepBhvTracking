@@ -5,6 +5,4 @@ A strategy to track an animal’s movement by combining a deep learning techniqu
 
 A demo detector trained for black mice could be downloaded in the latest releases.
 
-More details could see our paper:
-DeepBhvTracking: A Novel Behavior Tracking Method for Laboratory Animals Based on Deep Learning
-DOI: https://doi.org/10.3389/fnbeh.2021.750894
+More details could see our paper: DeepBhvTracking: A Novel Behavior Tracking Method for Laboratory Animals Based on Deep Learning. (DOI: https://doi.org/10.3389/fnbeh.2021.750894)
